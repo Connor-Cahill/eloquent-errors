@@ -1,7 +1,7 @@
 {
-  "name": "npm-module-boilerplate",
+  "name": "eloquent-errors",
   "version": "1.0.0",
-  "description": "Boilerplate for npm modules with ES6 features and syntax",
+  "description": "",
   "main": "./lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
@@ -21,21 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexdinesh/npm-module-boilerplate.git"
+    "url": "git+https://github.com/Connor-Cahill/eloquent-errors.git"
   },
-  "keywords": [
-    "boilerplate",
-    "npm",
-    "module",
-    "node",
-    "javascript"
-  ],
-  "author": "Dinesh Pandiyan <flexdinesh@gmail.com>",
+  "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/flexdinesh/npm-module-boilerplate/issues"
-  },
-  "homepage": "https://github.com/flexdinesh/npm-module-boilerplate#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.1",
